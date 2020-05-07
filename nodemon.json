@@ -1,3 +1,5 @@
 {
-    
+    "env": {
+                "JWT_KEY":"hidden"
+    }
 }
